@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709271672230",
+    "firebase_url": "https://project-xyz-f0fc7-default-rtdb.firebaseio.com",
+    "project_id": "project-xyz-f0fc7",
+    "storage_bucket": "project-xyz-f0fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709271672230:android:c8ae6c661f25aee9172b67",
+        "android_client_info": {
+          "package_name": "com.beast.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709271672230-14j7trqjpqta2b8jch45gojuatc1fpnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_brZusig6ouau_4hk4UmfNXPpipJd3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709271672230-14j7trqjpqta2b8jch45gojuatc1fpnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
